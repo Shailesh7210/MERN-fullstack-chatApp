@@ -1,5 +1,5 @@
 # ✨ Full Stack Realtime Chat App ✨
-[Website Demo](https://mern-fullstack-chatapp.onrender.com)
+![Website Demo](https://mern-fullstack-chatapp.onrender.com)
 
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
